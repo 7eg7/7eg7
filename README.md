@@ -5,8 +5,9 @@
   <br />
 - 2024 Goals: Learn more about Django and Python
   <br />
-  <br />
-[twitter]: https://twitter.com/jojorabbit07
+  
  <Hr />
+[twitter]: https://twitter.com/jojorabbit07
 <Hr />
 [linkedin]: https://linkedin.com/in/emre-günaydın-149b24174
+ <Hr />

@@ -12,6 +12,6 @@
 <br />
 <br />
 
-<a href="https://twitter.com/jojorabbit07" target="blank"><img align="center"  height="30" width="40" /></a>
+
 [twitter]: https://twitter.com/jojorabbit07
 [linkedin]: https://linkedin.com/in/emre-günaydın-149b24174

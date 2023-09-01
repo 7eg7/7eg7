@@ -7,6 +7,7 @@
   <br />
   
  <Hr />
+
 [twitter] : https://twitter.com/jojorabbit07
 <Hr />
 [linkedin]: https://linkedin.com/in/emre-günaydın-149b24174
